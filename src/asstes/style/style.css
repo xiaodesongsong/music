@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-size: 16px;
+  /* background-image: url(../image/loadimg.gif); */
+}
+ul,li{
+  font-style: normal;
+}
+.left{
+  float: left;
+}
+.right{
+  float:right
+}
+.red{
+  color: red;
+}
+.bg{
+  /* background-image: url(../image/header.jpeg) */
+}
